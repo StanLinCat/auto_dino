@@ -41,4 +41,8 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+## 🎬 使用示範影片
 
+點擊下方圖片觀看 Auto Dino 的實際運作效果：
+
+[![Auto Dino Demo](https://img.youtube.com/vi/Tgs7ZFv4YLU/0.jpg)](https://youtu.be/Tgs7ZFv4YLU?si=LkscFoRJHDlOysJN)
